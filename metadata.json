@@ -1,0 +1,5 @@
+{
+  "name": "AI Recipe Generator",
+  "description": "Upload a photo of your food and get an instant recipe in English, French, Spanish, or Arabic. This app uses Google Gemini to analyze the image and generate a complete recipe. Users get 3 free generations before a one-time payment is required.",
+  "requestFramePermissions": []
+}
